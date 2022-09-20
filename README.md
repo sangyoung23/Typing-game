@@ -1,4 +1,4 @@
 # Typing-game
 
-제한시간동안 나오는 단어들을 타이핑 하며 점수를 쌓는 게임을 만들어 봤습니다.
+https://velog.io/@sangyoung23/JS-Toy-Project-타이핑-게임
 
